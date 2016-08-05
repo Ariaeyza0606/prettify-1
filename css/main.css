@@ -1,0 +1,103 @@
+nav{
+	display: block;
+	padding: 15px;
+}
+
+nav a {
+	text-decoration: none;
+	color: black;
+	padding: 10px 30px;
+	font-weight: bold;
+
+}
+nav a:hover{
+	color: #A018E3;
+}
+h1 {
+	font-size: 3em;
+}
+h2 {
+	font-size: 2em;
+	padding-bottom: 10px;
+}
+h3 {
+	font-size: 1.5em;
+	color: #A018E3;
+	padding-bottom: 20px;
+}
+h4 {
+	font-size: 1em;
+	color: #A018E3;
+	padding-bottom: 20px;
+}
+.container{
+	margin: 0 auto;
+    width: 80%;
+}
+.imagen{
+	position: relative;
+	background-image: url("../images/background.jpg");
+	background-size: 100%;
+	width: 100%;
+	height: 400px;
+	background-repeat:no-repeat;
+}
+.art1 {
+	background-image: url("../images/tile1.png");
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.art2 {
+	background-color: white;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.foot {
+	background-image: url("../images/tile2.png");
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.user-photo {
+	position: relative;
+	height: 200px;
+	width: 200px;
+	padding: 5px;
+	border: 1px solid;
+	right: 0px;
+}
+.text-center{
+	text-align: center;
+}
+.logo{
+	padding-top: 50px;
+	height: 70px;
+	width: 70px;
+}
+.kitten{
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+	border: 1px ;
+	padding: 4px;
+	margin: 8px;
+	border: 2px #A018E3 solid;
+}
+.contact{
+	border-radius: 50%;
+	width: 120px;
+	height: 120px;
+	border:1px ;
+	margin: 10px;
+	text-align: center;
+}
+
+.texto {
+	color: white;
+	padding: 30px;
+}
+.box-text{
+	padding-left: 10px;
+}
+.social{
+padding-left: 30px;
+}
